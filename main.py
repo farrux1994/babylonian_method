@@ -5,5 +5,5 @@ def main(S, d):
 
     return x
 
-k = main(12, 2)
+k = main(16, 4)
 print(k)
